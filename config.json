@@ -1,11 +1,11 @@
 {
-    "default_interval": 45,
+    "default_interval": 20,
     "default_delete_after": 8,
     "chats": {},
-    "target_chat_id": -1004349483106,
+    "target_chat_id": -1004457074646,
     "settings": {
-        "interval": 5,
-        "delete_after": 5,
+        "interval": 20,
+        "delete_after": 8,
         "messages": [
             "🔴 WE ARE LIVE NOW — JOIN THE CALL!",
             "🎙️ LIVE SESSION IS ON — COME THROUGH NOW!",
